@@ -8,30 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d1b369317c3a9b9",
+            "id": "6db3e60130098958",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Contents.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6054817161fda5f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture - June 28/Lecture notes - June 28.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6db3e60130098958",
+            "id": "06b6a63b43aaaea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents.md",
+                "file": "What is a partition?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents.md",
+                "file": "Lecture - June 28/Lecture notes - June 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents.md",
+                "file": "Lecture - June 28/Lecture notes - June 28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents.md"
+                "file": "Lecture - June 28/Lecture notes - June 28.md"
               }
             }
           }
@@ -160,18 +175,20 @@
   },
   "active": "e8511a6ce2dfef2e",
   "lastOpenFiles": [
+    "Homework 4 - June 28",
+    "Homework 1/Filesystems.pdf",
+    "Lecture - June 28/Lecture notes - June 28.md",
+    "Lecture - June 28",
+    "Explore/Untitled",
+    "What is a partition?.md",
+    "Explore",
+    "Contents.md",
+    "Homework 1/ChangePassword in Linux.pdf",
     "Homework 3",
     "Homework 2",
-    "Homework 1/Filesystems.pdf",
-    "Contents.md",
     "Homework 3/Linux.013.webp",
     "Homework 3/Soft Link and Hard Links.pdf",
     "Homework 3/Difference between locate and find command in Linux.pdf",
-    "Homework 3/TAB Completion.pdf",
-    "Homework 3/Getting Help.pdf",
-    "Homework 2/Wildcards.pdf",
-    "Homework 2/File Names.pdf",
-    "Homework 2/List files and directories.pdf",
-    "Homework 1/Passwords Standards.pdf"
+    "Homework 3/TAB Completion.pdf"
   ]
 }
