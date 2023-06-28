@@ -25,11 +25,9 @@
             "id": "6054817161fda5f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture - June 28/Lecture notes - June 28.md",
-                "mode": "source",
-                "source": false
+                "file": "Homework 4 - June 28/Adding Text to Files.pdf"
               }
             }
           },
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture - June 28/Lecture notes - June 28.md",
+                "file": "Homework 4 - June 28/Adding Text to Files.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture - June 28/Lecture notes - June 28.md",
+                "file": "Homework 4 - June 28/Adding Text to Files.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture - June 28/Lecture notes - June 28.md"
+                "file": "Homework 4 - June 28/Adding Text to Files.pdf"
               }
             }
           }
@@ -175,20 +173,20 @@
   },
   "active": "e8511a6ce2dfef2e",
   "lastOpenFiles": [
+    "Lecture - June 28/Lecture notes - June 28.md",
+    "Homework 4 - June 28/Pipes.pdf",
+    "Homework 4 - June 28/Adding Text to Files.pdf",
+    "Homework 4 - June 28/File Permissions and Ownership.pdf",
+    "Homework 4 - June 28/Command Syntax.pdf",
+    "README.md",
     "Homework 4 - June 28",
     "Homework 1/Filesystems.pdf",
-    "Lecture - June 28/Lecture notes - June 28.md",
     "Lecture - June 28",
     "Explore/Untitled",
     "What is a partition?.md",
     "Explore",
     "Contents.md",
     "Homework 1/ChangePassword in Linux.pdf",
-    "Homework 3",
-    "Homework 2",
-    "Homework 3/Linux.013.webp",
-    "Homework 3/Soft Link and Hard Links.pdf",
-    "Homework 3/Difference between locate and find command in Linux.pdf",
-    "Homework 3/TAB Completion.pdf"
+    "Homework 3/Linux.013.webp"
   ]
 }
