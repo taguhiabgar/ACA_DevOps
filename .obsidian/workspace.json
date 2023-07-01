@@ -27,7 +27,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Homework 4 - June 28/Access Control Lists.pdf"
+                "file": "Homework/Homework 4 - June 28/Access Control Lists.pdf"
               }
             }
           },
@@ -37,7 +37,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Homework 1/ChangePassword in Linux.pdf"
+                "file": "Homework/Homework 1/ChangePassword in Linux.pdf"
               }
             }
           },
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture notes - July 1.md",
+                "file": "Explore/What is a partition?.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is a partition?.md",
+                "file": "Explore/What is a partition?.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture notes - July 1.md",
+                "file": "Explore/What is a partition?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture notes - July 1.md",
+                "file": "Explore/What is a partition?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture notes - July 1.md"
+                "file": "Explore/What is a partition?.md"
               }
             }
           }
@@ -194,27 +194,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3897436ccaaa0324",
+  "active": "e8511a6ce2dfef2e",
   "lastOpenFiles": [
-    "Homework 3/Linux.013.webp",
     "Lectures/Lecture notes - July 1.md",
+    "Homework",
+    "Homework/Homework 3/Linux.013.webp",
     "Learning Materials/Youtube materials.md",
     "Lectures/Lecture notes - June 28.md",
-    "Homework 4 - June 28/Adding Text to Files.pdf",
+    "Homework/Homework 4 - June 28/Adding Text to Files.pdf",
     "Learning Materials/Habr Materials.md",
     "Learning Materials/10 Courses to Learn Linux Command Line.md",
-    "Homework 1/ChangePassword in Linux.pdf",
+    "Homework/Homework 1/ChangePassword in Linux.pdf",
     "Learning Materials",
-    "Untitled",
-    "Homework 4 - June 28/Access Control Lists.pdf",
-    "Homework 4 - June 28/File Permissions and Ownership.pdf",
-    "Homework 4 - June 28/Command Syntax.pdf",
-    "Homework 4 - June 28/File Permissions Cheat Sheet.pdf",
-    "Homework 4 - June 28/Pipes.pdf",
-    "Homework 1/Filesystems.pdf",
+    "Homework/Homework 4 - June 28/Access Control Lists.pdf",
+    "Homework/Homework 4 - June 28/File Permissions and Ownership.pdf",
+    "Homework/Homework 4 - June 28/Command Syntax.pdf",
+    "Homework/Homework 4 - June 28/File Permissions Cheat Sheet.pdf",
+    "Homework/Homework 4 - June 28/Pipes.pdf",
+    "Homework/Homework 1/Filesystems.pdf",
     "Contents.md",
-    "Homework 1/sortspec.md",
+    "Homework/Homework 1/sortspec.md",
     "README.md",
-    "What is a partition?.md"
+    "Explore/What is a partition?.md"
   ]
 }
