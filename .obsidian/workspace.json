@@ -27,7 +27,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Homework 4 - June 28/Adding Text to Files.pdf"
+                "file": "Homework 4 - June 28/File Permissions and Ownership.pdf"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework 4 - June 28/Adding Text to Files.pdf",
+                "file": "Homework 4 - June 28/File Permissions and Ownership.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework 4 - June 28/Adding Text to Files.pdf",
+                "file": "Homework 4 - June 28/File Permissions and Ownership.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework 4 - June 28/Adding Text to Files.pdf"
+                "file": "Homework 4 - June 28/File Permissions and Ownership.pdf"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,22 +172,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8511a6ce2dfef2e",
+  "active": "6054817161fda5f0",
   "lastOpenFiles": [
-    "Lecture - June 28/Lecture notes - June 28.md",
-    "Homework 4 - June 28/Pipes.pdf",
-    "Homework 4 - June 28/Adding Text to Files.pdf",
-    "Homework 4 - June 28/File Permissions and Ownership.pdf",
     "Homework 4 - June 28/Command Syntax.pdf",
+    "Homework 4 - June 28/Adding Text to Files.pdf",
+    "Homework 4 - June 28/Access Control Lists.pdf",
+    "Homework 4 - June 28/File Permissions Cheat Sheet.pdf",
+    "Homework 4 - June 28/Pipes.pdf",
+    "Homework 1/Filesystems.pdf",
+    "Homework 1/ChangePassword in Linux.pdf",
+    "Contents.md",
+    "Homework 1/sortspec.md",
+    "Homework 1/Passwords Standards.pdf",
+    "Lecture - June 28/Lecture notes - June 28.md",
+    "Homework 4 - June 28/File Permissions and Ownership.pdf",
     "README.md",
     "Homework 4 - June 28",
-    "Homework 1/Filesystems.pdf",
-    "Lecture - June 28",
-    "Explore/Untitled",
     "What is a partition?.md",
-    "Explore",
-    "Contents.md",
-    "Homework 1/ChangePassword in Linux.pdf",
     "Homework 3/Linux.013.webp"
   ]
 }
