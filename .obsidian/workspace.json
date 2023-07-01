@@ -27,7 +27,29 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Homework 4 - June 28/File Permissions and Ownership.pdf"
+                "file": "Homework 4 - June 28/Access Control Lists.pdf"
+              }
+            }
+          },
+          {
+            "id": "92f2217478158035",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Homework 1/ChangePassword in Linux.pdf"
+              }
+            }
+          },
+          {
+            "id": "3897436ccaaa0324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Lecture notes - July 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -44,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework 4 - June 28/File Permissions and Ownership.pdf",
+                "file": "Lectures/Lecture notes - July 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework 4 - June 28/File Permissions and Ownership.pdf",
+                "file": "Lectures/Lecture notes - July 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework 4 - June 28/File Permissions and Ownership.pdf"
+                "file": "Lectures/Lecture notes - July 1.md"
               }
             }
           }
@@ -172,23 +194,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6054817161fda5f0",
+  "active": "3897436ccaaa0324",
   "lastOpenFiles": [
-    "Homework 4 - June 28/Command Syntax.pdf",
+    "Homework 3/Linux.013.webp",
+    "Lectures/Lecture notes - July 1.md",
+    "Learning Materials/Youtube materials.md",
+    "Lectures/Lecture notes - June 28.md",
     "Homework 4 - June 28/Adding Text to Files.pdf",
+    "Learning Materials/Habr Materials.md",
+    "Learning Materials/10 Courses to Learn Linux Command Line.md",
+    "Homework 1/ChangePassword in Linux.pdf",
+    "Learning Materials",
+    "Untitled",
     "Homework 4 - June 28/Access Control Lists.pdf",
+    "Homework 4 - June 28/File Permissions and Ownership.pdf",
+    "Homework 4 - June 28/Command Syntax.pdf",
     "Homework 4 - June 28/File Permissions Cheat Sheet.pdf",
     "Homework 4 - June 28/Pipes.pdf",
     "Homework 1/Filesystems.pdf",
-    "Homework 1/ChangePassword in Linux.pdf",
     "Contents.md",
     "Homework 1/sortspec.md",
-    "Homework 1/Passwords Standards.pdf",
-    "Lecture - June 28/Lecture notes - June 28.md",
-    "Homework 4 - June 28/File Permissions and Ownership.pdf",
     "README.md",
-    "Homework 4 - June 28",
-    "What is a partition?.md",
-    "Homework 3/Linux.013.webp"
+    "What is a partition?.md"
   ]
 }
