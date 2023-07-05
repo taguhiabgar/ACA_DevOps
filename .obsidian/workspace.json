@@ -45,9 +45,11 @@
             "id": "3897436ccaaa0324",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Homework/Homework 5 - July 1/Finding System Information.pdf"
+                "file": "Lectures/Lecture notes - July 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Homework 5 - July 1/Finding System Information.pdf",
+                "file": "Lectures/Lecture notes - July 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Homework 5 - July 1/Finding System Information.pdf",
+                "file": "Lectures/Lecture notes - July 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Homework 5 - July 1/Finding System Information.pdf"
+                "file": "Lectures/Lecture notes - July 5.md"
               }
             }
           }
@@ -194,20 +196,20 @@
   },
   "active": "e8511a6ce2dfef2e",
   "lastOpenFiles": [
+    "Lectures/Lecture notes - July 1.md",
+    "Lectures/Lecture notes - June 28.md",
+    "Homework/Homework 5 - July 1/Finding System Information.pdf",
     "Homework/Homework 5 - July 1/File Maintenance Commands.pdf",
     "Lectures/Lecture notes - July 5.md",
-    "Lectures/Lecture notes - July 1.md",
-    "Homework/Homework 5 - July 1/Additional Materials/L02_awk_rules.pdf",
+    "Homework/Homework 5 - July 1/Additional Readings/L02_awk_rules.pdf",
     "Homework/Homework 5 - July 1/Additional Materials/Unconfirmed 880933.crdownload",
-    "Homework/Homework 5 - July 1/Additional Materials",
+    "Homework/Homework 5 - July 1/Additional Readings",
     "Homework/Homework 1/sortspec.md",
-    "Homework/Homework 5 - July 1/Finding System Information.pdf",
     "Homework/Homework 5 - July 1/File Display Commands.pdf",
     "Homework/Homework 5 - July 1/Filters Text Processing Commands.pdf",
     "Homework/Homework 5 - July 1",
     "Homework/Homework 1/ChangePassword in Linux.pdf",
     "Explore/What is a wildcard?.md",
-    "Lectures/Lecture notes - June 28.md",
     "Explore/What is a partition?.md",
     "Homework",
     "Homework/Homework 3/Linux.013.webp",
