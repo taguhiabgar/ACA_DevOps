@@ -25,9 +25,11 @@
             "id": "6054817161fda5f0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Homework/Homework 6 - July 5/vi commands.pdf"
+                "file": "Lectures/Lecture - July 5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Homework 6 - July 5/vi commands.pdf",
+                "file": "Lectures/Lecture - July 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Homework 6 - July 5/vi commands.pdf",
+                "file": "Lectures/Lecture - July 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Homework 6 - July 5/vi commands.pdf"
+                "file": "Lectures/Lecture - July 5.md"
               }
             }
           }
@@ -194,13 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8511a6ce2dfef2e",
+  "active": "6054817161fda5f0",
   "lastOpenFiles": [
+    "Homework/Homework 6 - July 5/vi commands.pdf",
     "Lectures/Lecture - June 28.md",
     "Lectures/Lecture - July 5.md",
     "Lectures/Lecture - July 1.md",
     "Lectures/Lecture - July 12.md",
-    "Homework/Homework 6 - July 5/vi commands.pdf",
     "Homework/Homework 6 - July 5",
     "Homework/Homework 6",
     "Homework/untitled folder",

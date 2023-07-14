@@ -82,3 +82,13 @@ deletes lines 1-4
 
 `dmidecode` command shows the hardware information
 
+# vim
+
+[https://openvim.com/](https://openvim.com/)
+[https://vim-adventures.com/](https://vim-adventures.com/) - vim game
+
+`shift+zz` save and exit
+`U` - undo
+`R` - replace
+`O` - new line
+
