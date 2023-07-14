@@ -25,9 +25,11 @@
             "id": "6054817161fda5f0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Homework/Homework 4 - June 28/Access Control Lists.pdf"
+                "file": "Lectures/Lecture - July 12.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -66,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture notes - July 5.md",
+                "file": "Lectures/Lecture - July 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture notes - July 5.md",
+                "file": "Lectures/Lecture - July 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture notes - July 5.md"
+                "file": "Lectures/Lecture - July 12.md"
               }
             }
           }
@@ -194,29 +196,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8511a6ce2dfef2e",
+  "active": "6054817161fda5f0",
   "lastOpenFiles": [
-    "Lectures/Lecture notes - July 1.md",
-    "Lectures/Lecture notes - June 28.md",
-    "Homework/Homework 5 - July 1/Finding System Information.pdf",
-    "Homework/Homework 5 - July 1/File Maintenance Commands.pdf",
+    "Homework/Homework 2/List files and directories.pdf",
+    "Lectures/Lecture - July 12.md",
+    "Homework/Homework 4 - June 28/Access Control Lists.pdf",
     "Lectures/Lecture notes - July 5.md",
-    "Homework/Homework 5 - July 1/Additional Readings/L02_awk_rules.pdf",
-    "Homework/Homework 5 - July 1/Additional Materials/Unconfirmed 880933.crdownload",
-    "Homework/Homework 5 - July 1/Additional Readings",
-    "Homework/Homework 1/sortspec.md",
-    "Homework/Homework 5 - July 1/File Display Commands.pdf",
-    "Homework/Homework 5 - July 1/Filters Text Processing Commands.pdf",
-    "Homework/Homework 5 - July 1",
-    "Homework/Homework 1/ChangePassword in Linux.pdf",
+    "Homework/Homework 2/Wildcards.pdf",
     "Explore/What is a wildcard?.md",
     "Explore/What is a partition?.md",
-    "Homework",
+    "README.md",
+    "Contents.md",
+    "Lectures/Lecture notes - June 28.md",
+    "Lectures/Lecture notes - July 1.md",
+    "Homework/Homework 5 - July 1/File Display Commands.pdf",
+    "Homework/Homework 2/File Names.pdf",
+    "Homework/Homework 1/ChangePassword in Linux.pdf",
+    "Homework/Homework 1/sortspec.md",
+    "Homework/Homework 1/Passwords Standards.pdf",
+    "Homework/Homework 1/Filesystems.pdf",
+    "Homework/Homework 5 - July 1/Finding System Information.pdf",
+    "Homework/Homework 5 - July 1/File Maintenance Commands.pdf",
     "Homework/Homework 3/Linux.013.webp",
     "Learning Materials/Youtube materials.md",
     "Learning Materials/Habr Materials.md",
-    "Learning Materials/10 Courses to Learn Linux Command Line.md",
-    "Contents.md",
-    "README.md"
+    "Learning Materials/10 Courses to Learn Linux Command Line.md"
   ]
 }
