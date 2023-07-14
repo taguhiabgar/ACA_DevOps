@@ -25,11 +25,9 @@
             "id": "6054817161fda5f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lectures/Lecture - July 12.md",
-                "mode": "source",
-                "source": false
+                "file": "Homework/Homework 6 - July 5/vi commands.pdf"
               }
             }
           },
@@ -49,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture notes - July 5.md",
+                "file": "Lectures/Lecture - July 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture - July 12.md",
+                "file": "Homework/Homework 6 - July 5/vi commands.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture - July 12.md",
+                "file": "Homework/Homework 6 - July 5/vi commands.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture - July 12.md"
+                "file": "Homework/Homework 6 - July 5/vi commands.pdf"
               }
             }
           }
@@ -196,27 +194,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6054817161fda5f0",
+  "active": "e8511a6ce2dfef2e",
   "lastOpenFiles": [
-    "Homework/Homework 2/List files and directories.pdf",
+    "Lectures/Lecture - June 28.md",
+    "Lectures/Lecture - July 5.md",
+    "Lectures/Lecture - July 1.md",
     "Lectures/Lecture - July 12.md",
-    "Homework/Homework 4 - June 28/Access Control Lists.pdf",
-    "Lectures/Lecture notes - July 5.md",
-    "Homework/Homework 2/Wildcards.pdf",
+    "Homework/Homework 6 - July 5/vi commands.pdf",
+    "Homework/Homework 6 - July 5",
+    "Homework/Homework 6",
+    "Homework/untitled folder",
+    "Homework/Homework 7 - July 12/User Accounts in Linux.pdf",
+    "Homework/Homework 7 - July 12/User Account Management.pdf",
+    "Homework/Homework 7 - July 12",
+    "Homework/Homework 6 - July 12/3-User+Accounts+in+Linux.pdf",
+    "Homework/Homework 6 - July 12/2-User+Account+Management.pdf",
+    "Homework/Homework 6 - July 12",
     "Explore/What is a wildcard?.md",
     "Explore/What is a partition?.md",
     "README.md",
     "Contents.md",
-    "Lectures/Lecture notes - June 28.md",
-    "Lectures/Lecture notes - July 1.md",
-    "Homework/Homework 5 - July 1/File Display Commands.pdf",
-    "Homework/Homework 2/File Names.pdf",
-    "Homework/Homework 1/ChangePassword in Linux.pdf",
     "Homework/Homework 1/sortspec.md",
-    "Homework/Homework 1/Passwords Standards.pdf",
-    "Homework/Homework 1/Filesystems.pdf",
-    "Homework/Homework 5 - July 1/Finding System Information.pdf",
-    "Homework/Homework 5 - July 1/File Maintenance Commands.pdf",
     "Homework/Homework 3/Linux.013.webp",
     "Learning Materials/Youtube materials.md",
     "Learning Materials/Habr Materials.md",
