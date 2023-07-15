@@ -6,11 +6,11 @@ useradd
 
 groupadd
 
-userdel - (check this info!) deletes user but doesn't delete their `home` directory (`-r` option deletes user's all directories)
+userdel - deletes user but doesn't delete their `home` directory (`-r` option deletes user's all directories)
 
 groupdel
 
-deluser - (check this info!) deletes user and doesn't delete their `home` directory 
+deluser - deletes user and their `home` directory 
 
 usermod - 
 `usermod -G sergey_group sergey` - add user sergey to group sergey_group
