@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture - July 15.md",
+                "file": "Homework/Homework 8 - July 15/Pluggable Authentication Modules (PAM) - настройки системы аутентификации.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture - July 15.md",
+                "file": "Homework/Homework 8 - July 15/Pluggable Authentication Modules (PAM) - настройки системы аутентификации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture - July 15.md",
+                "file": "Homework/Homework 8 - July 15/Pluggable Authentication Modules (PAM) - настройки системы аутентификации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture - July 15.md"
+                "file": "Homework/Homework 8 - July 15/Pluggable Authentication Modules (PAM) - настройки системы аутентификации.md"
               }
             }
           }
@@ -196,14 +196,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8511a6ce2dfef2e",
+  "active": "59b6d4e13ef42c2a",
   "lastOpenFiles": [
+    "Contents.md",
+    "Homework/Homework 8 - July 15/Pluggable Authentication Modules (PAM) - настройки системы аутентификации.md",
+    "Homework/Homework 8 - July 15",
     "Lectures/Screenshot 2023-07-15 at 16.50.41.png",
     "Homework/Homework 7 - July 12/User Accounts in Linux.pdf",
     "Lectures/Lecture - July 15.md",
     "Homework/Homework 7 - July 12/User Account Management.pdf",
     "Lectures/Lecture - July 12.md",
-    "Contents.md",
     "Lectures/Lecture - July 5.md",
     "Homework/Homework 6 - July 5/vi commands.pdf",
     "Lectures/Lecture - June 28.md",
@@ -214,7 +216,6 @@
     "Homework/Homework 7 - July 12",
     "Homework/Homework 6 - July 12/3-User+Accounts+in+Linux.pdf",
     "Homework/Homework 6 - July 12/2-User+Account+Management.pdf",
-    "Homework/Homework 6 - July 12",
     "Explore/What is a wildcard?.md",
     "Explore/What is a partition?.md",
     "README.md",
