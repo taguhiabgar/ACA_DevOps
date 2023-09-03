@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture - August 16.md",
+                "file": "Learning Materials/Habr Materials.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "1330dc82961e3073",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture - August 16.md",
+                "file": "Learning Materials/Habr Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture - August 16.md",
+                "file": "Learning Materials/Habr Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture - August 16.md"
+                "file": "Learning Materials/Habr Materials.md"
               }
             }
           }
@@ -213,35 +212,42 @@
   },
   "active": "ceabe24a4655fd18",
   "lastOpenFiles": [
+    "Lectures/Lecture 12 - September 2.md",
+    "Screenshot 2023-09-02 at 13.17.02.png",
+    "Homework/Homework 14 - August 16 - Exam/Untitled.md",
+    "Homework/Homework 14 - August 16 - Exam/ping-hosts.txt",
+    "Homework/Homework 14 - August 16 - Exam/9-Aliases.pdf",
+    "Homework/Homework 14 - August 16 - Exam/8-case+Scripts.pdf",
+    "Homework/Homework 14 - August 16 - Exam/6-do-while+Scripts.pdf",
+    "Homework/Homework 14 - August 16 - Exam/5-for+loop+Scripts.pdf",
+    "Homework/Homework 14 - August 16 - Exam/4-Basic+Shell+Scripts.pdf",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/TASK.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/Q9.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/Q8.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/Q7.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/Q6.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/Q5.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/Q47.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/Q46.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM/Q45.png",
+    "Homework/Homework 14 - August 16 - Exam/EXAM",
+    "Homework/Homework 14 - August 16 - Exam/EXAM.zip",
+    "Homework/Homework 14 - August 16 - Exam",
+    "Homework/Homework 13 - August 12/Additional Notes - Homework 13 - Bash conditional expressions.md",
+    "Homework/Homework 13 - August 12/7-if-then+Scripts.pdf",
+    "Homework/Homework 12 - August 2/Git and Github documentation URLs.md",
+    "Homework/Homework 11 - July 26/Managing Journal Size (URL).md",
+    "Homework/Homework 11 - July 26/Additional Notes - Homework 11 - July 26.md",
+    "Homework/Homework 10 - July 22/Additional Notes - Homework 10 - July 22.md",
     "Lecture - August 16.md",
     "Lectures/Lecture 11 - August 12.md",
-    "EXAM/TASK.png",
-    "EXAM/Q9.png",
-    "EXAM/Q8.png",
-    "EXAM/Q7.png",
-    "EXAM/Q6.png",
-    "EXAM/Q5.png",
-    "EXAM/Q47.png",
-    "EXAM/Q46.png",
-    "EXAM/Q45.png",
-    "EXAM/Q44.png",
-    "EXAM",
-    "EXAM.zip",
     "Lectures/Lecture 10 - August 2.md",
     "Lectures/Lecture 9 - July 29.md",
     "Contents.md",
     "Lectures/Lecture 7 - July 22.md",
     "Lectures/Lecture 8 - July 26.md",
-    "main/1690201729653.pdf",
     "README.md",
     "Lectures/Lecture 3 - July 5.md",
-    "Homework/Homework 1/ChangePassword in Linux.pdf",
-    "main/Unconfirmed 168523.crdownload",
-    "main",
-    "untitled folder",
-    "Homework/Homework 10 - July 22/top command.pdf",
-    "Homework/Homework 10 - July 22/Signal names and purpose.pdf",
-    "Homework/Homework 10 - July 22/Processes.pdf",
     "Homework/Homework 10 - July 22/Homework 10 - Notes.md",
     "Lectures/Lecture 1 - June 28.md",
     "Learning Materials/Youtube materials.md",
@@ -250,11 +256,6 @@
     "Lectures/Lecture 6 - July 19.md",
     "Lectures/Lecture 5 - July 15.md",
     "Lectures/Lecture 4 - July 12.md",
-    "Lectures/Lecture 2 - July 1.md",
-    "Explore/Forgot root password.md",
-    "Homework/Homework 8 - July 15/Pluggable Authentication Modules (PAM) - настройки системы аутентификации.md",
-    "Explore/What is a wildcard?.md",
-    "Explore/What is a partition?.md",
-    "Homework/Homework 1/sortspec.md"
+    "Lectures/Lecture 2 - July 1.md"
   ]
 }
