@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 12 - September 2, September 6.md",
+                "file": "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 12 - September 2, September 6.md",
+                "file": "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 12 - September 2, September 6.md",
+                "file": "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 12 - September 2, September 6.md"
+                "file": "Homework/Homework 19 - September 9/Homework 19 - September 9.md"
               }
             }
           }
@@ -212,8 +212,10 @@
   },
   "active": "ceabe24a4655fd18",
   "lastOpenFiles": [
-    "Lectures/Lecture 13 - September 6.md",
     "Lectures/Lecture 12 - September 2, September 6.md",
+    "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
+    "Homework/Homework 19 - September 9",
+    "Lectures/Lecture 13 - September 6.md",
     "Learning Materials/Habr Materials.md",
     "Screenshot 2023-09-02 at 13.17.02.png",
     "Homework/Homework 14 - August 16 - Exam/Untitled.md",
@@ -236,7 +238,6 @@
     "Homework/Homework 14 - August 16 - Exam/EXAM.zip",
     "Homework/Homework 14 - August 16 - Exam",
     "Homework/Homework 13 - August 12/Additional Notes - Homework 13 - Bash conditional expressions.md",
-    "Homework/Homework 13 - August 12/7-if-then+Scripts.pdf",
     "Homework/Homework 12 - August 2/Git and Github documentation URLs.md",
     "Homework/Homework 11 - July 26/Managing Journal Size (URL).md",
     "Homework/Homework 11 - July 26/Additional Notes - Homework 11 - July 26.md",
@@ -256,7 +257,6 @@
     "Learning Materials/10 Courses to Learn Linux Command Line.md",
     "Lectures/Lecture 6 - July 19.md",
     "Lectures/Lecture 5 - July 15.md",
-    "Lectures/Lecture 4 - July 12.md",
-    "Lectures/Lecture 2 - July 1.md"
+    "Lectures/Lecture 4 - July 12.md"
   ]
 }
