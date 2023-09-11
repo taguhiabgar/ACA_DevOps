@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Materials/Habr Materials.md",
+                "file": "Lectures/Lecture 12 - September 2, September 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Materials/Habr Materials.md",
+                "file": "Lectures/Lecture 12 - September 2, September 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Materials/Habr Materials.md",
+                "file": "Lectures/Lecture 12 - September 2, September 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Materials/Habr Materials.md"
+                "file": "Lectures/Lecture 12 - September 2, September 6.md"
               }
             }
           }
@@ -212,7 +212,9 @@
   },
   "active": "ceabe24a4655fd18",
   "lastOpenFiles": [
-    "Lectures/Lecture 12 - September 2.md",
+    "Lectures/Lecture 13 - September 6.md",
+    "Lectures/Lecture 12 - September 2, September 6.md",
+    "Learning Materials/Habr Materials.md",
     "Screenshot 2023-09-02 at 13.17.02.png",
     "Homework/Homework 14 - August 16 - Exam/Untitled.md",
     "Homework/Homework 14 - August 16 - Exam/ping-hosts.txt",
@@ -251,7 +253,6 @@
     "Homework/Homework 10 - July 22/Homework 10 - Notes.md",
     "Lectures/Lecture 1 - June 28.md",
     "Learning Materials/Youtube materials.md",
-    "Learning Materials/Habr Materials.md",
     "Learning Materials/10 Courses to Learn Linux Command Line.md",
     "Lectures/Lecture 6 - July 19.md",
     "Lectures/Lecture 5 - July 15.md",
