@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
+                "file": "Lectures/Lecture 13 - September 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
+                "file": "Lectures/Lecture 13 - September 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
+                "file": "Lectures/Lecture 13 - September 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Homework 19 - September 9/Homework 19 - September 9.md"
+                "file": "Lectures/Lecture 13 - September 13.md"
               }
             }
           }
@@ -213,6 +213,7 @@
   "active": "ceabe24a4655fd18",
   "lastOpenFiles": [
     "Lectures/Lecture 12 - September 2, September 6.md",
+    "Lectures/Lecture 13 - September 13.md",
     "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
     "Homework/Homework 19 - September 9",
     "Lectures/Lecture 13 - September 6.md",
@@ -256,7 +257,6 @@
     "Learning Materials/Youtube materials.md",
     "Learning Materials/10 Courses to Learn Linux Command Line.md",
     "Lectures/Lecture 6 - July 19.md",
-    "Lectures/Lecture 5 - July 15.md",
-    "Lectures/Lecture 4 - July 12.md"
+    "Lectures/Lecture 5 - July 15.md"
   ]
 }
