@@ -8,81 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6db3e60130098958",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "547ffcc0a7f2dc90",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Lecture 9 - July 29.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "197acc8c22f4eb1d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Lecture 10 - August 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "61831a12440623e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Lecture 11 - August 12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e518687026789236",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ceabe24a4655fd18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/Lecture 13 - September 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "raid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 13 - September 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 13 - September 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lectures/Lecture 13 - September 13.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -210,53 +139,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceabe24a4655fd18",
+  "active": "e518687026789236",
   "lastOpenFiles": [
-    "Lectures/Lecture 12 - September 2, September 6.md",
-    "Lectures/Lecture 13 - September 13.md",
-    "Homework/Homework 19 - September 9/Homework 19 - September 9.md",
-    "Homework/Homework 19 - September 9",
-    "Lectures/Lecture 13 - September 6.md",
-    "Learning Materials/Habr Materials.md",
-    "Screenshot 2023-09-02 at 13.17.02.png",
-    "Homework/Homework 14 - August 16 - Exam/Untitled.md",
-    "Homework/Homework 14 - August 16 - Exam/ping-hosts.txt",
-    "Homework/Homework 14 - August 16 - Exam/9-Aliases.pdf",
-    "Homework/Homework 14 - August 16 - Exam/8-case+Scripts.pdf",
-    "Homework/Homework 14 - August 16 - Exam/6-do-while+Scripts.pdf",
-    "Homework/Homework 14 - August 16 - Exam/5-for+loop+Scripts.pdf",
-    "Homework/Homework 14 - August 16 - Exam/4-Basic+Shell+Scripts.pdf",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/TASK.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/Q9.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/Q8.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/Q7.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/Q6.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/Q5.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/Q47.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/Q46.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM/Q45.png",
-    "Homework/Homework 14 - August 16 - Exam/EXAM",
-    "Homework/Homework 14 - August 16 - Exam/EXAM.zip",
-    "Homework/Homework 14 - August 16 - Exam",
-    "Homework/Homework 13 - August 12/Additional Notes - Homework 13 - Bash conditional expressions.md",
-    "Homework/Homework 12 - August 2/Git and Github documentation URLs.md",
-    "Homework/Homework 11 - July 26/Managing Journal Size (URL).md",
-    "Homework/Homework 11 - July 26/Additional Notes - Homework 11 - July 26.md",
-    "Homework/Homework 10 - July 22/Additional Notes - Homework 10 - July 22.md",
-    "Lecture - August 16.md",
-    "Lectures/Lecture 11 - August 12.md",
-    "Lectures/Lecture 10 - August 2.md",
-    "Lectures/Lecture 9 - July 29.md",
-    "Contents.md",
-    "Lectures/Lecture 7 - July 22.md",
-    "Lectures/Lecture 8 - July 26.md",
-    "README.md",
-    "Lectures/Lecture 3 - July 5.md",
-    "Homework/Homework 10 - July 22/Homework 10 - Notes.md",
-    "Lectures/Lecture 1 - June 28.md",
-    "Learning Materials/Youtube materials.md",
-    "Learning Materials/10 Courses to Learn Linux Command Line.md",
-    "Lectures/Lecture 6 - July 19.md",
-    "Lectures/Lecture 5 - July 15.md"
+    "Advanced/Lectures/Lecture 1 - October 28.md",
+    "Advanced/Lectures",
+    "Advanced/untitled folder",
+    "Intro/Lectures/Lecture - August 16.md",
+    "Lectures/Lecture 15? - September 20.md",
+    "Intro/Screenshot 2023-09-02 at 13.17.02.png",
+    "Intro/main/1690201729653.pdf",
+    "Intro/main",
+    "Intro/Lectures/Screenshot 2023-07-22 at 12.54.19.png",
+    "Intro/Lectures/Screenshot 2023-07-15 at 16.50.41.png",
+    "Intro/Lectures/Lecture 9 - July 29.md",
+    "Intro/Lectures/Lecture 8 - July 26.md",
+    "Intro/Lectures/Lecture 7 - July 22.md",
+    "Intro/Lectures/Lecture 6 - July 19.md",
+    "Intro/Lectures/Lecture 5 - July 15.md",
+    "Intro/Lectures/Lecture 4 - July 12.md",
+    "Intro/Lectures/Lecture 3 - July 5.md",
+    "Intro/Lectures/Lecture 2 - July 1.md",
+    "Intro/Lectures/Lecture 15? - September 20.md",
+    "Intro/Lectures/Lecture 13 - September 13.md",
+    "Intro/Lectures/Lecture 12 - September 2, September 6.md",
+    "Intro/Lectures/Lecture 11 - August 12.md",
+    "Intro/Lectures/Lecture 10 - August 2.md",
+    "Intro/Lectures/Lecture 1 - June 28.md",
+    "Intro/Lectures",
+    "Intro/Lecture - August 16.md",
+    "Intro/Learning Materials/Youtube materials.md",
+    "Intro/Learning Materials/10 Courses to Learn Linux Command Line.md",
+    "Intro/Learning Materials/Habr Materials.md",
+    "Intro/Learning Materials",
+    "Advanced/Lecture 1 - October 28.md",
+    "Intro/Homework/Homework 5 - July 1/Additional Readings/L02_awk_rules.pdf",
+    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/TASK.png",
+    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q9.png",
+    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q8.png",
+    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q7.png",
+    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q6.png",
+    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q5.png",
+    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q47.png",
+    "Intro/Homework/Homework 9 - July 19/System+Utility+Commands.pdf",
+    "Intro/Homework/Homework 8 - July 15/Pluggable Authentication Modules (PAM) - настройки системы аутентификации.md",
+    "Intro/Homework/Homework 9 - July 19/Switch+users+and+Sudo+Access.pdf",
+    "Intro/Homework/Homework 9 - July 19/Monitor+User+Commands.pdf",
+    "Intro/Homework/Homework 19 - September 9/Homework 19 - September 9.md",
+    "Intro/Homework/Homework 14 - August 16 - Exam/Untitled.md",
+    "Intro/Homework/Homework 13 - August 12/Additional Notes - Homework 13 - Bash conditional expressions.md"
   ]
 }
