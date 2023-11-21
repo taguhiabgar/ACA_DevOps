@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md",
+                "file": "Advanced/Homework/Homework 2 - November 5/Homework 2 - November 5.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8121a8cf00ecfaea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Advanced/Homework/Homework 5 - November 18/linux-administration.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md",
+                "file": "Advanced/Homework/Homework 5 - November 18/linux-administration.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md",
+                "file": "Advanced/Homework/Homework 5 - November 18/linux-administration.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md"
+                "file": "Advanced/Homework/Homework 5 - November 18/linux-administration.pdf"
               }
             }
           }
@@ -160,21 +170,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e4170fd96d047ad",
+  "active": "8121a8cf00ecfaea",
   "lastOpenFiles": [
-    "Intro/Homework/Homework 23 - September 23",
-    "Intro/Homework/Untitled.md",
+    "Advanced/Homework/Homework 5 - November 18/Homework 5 - November 18.md",
+    "Advanced/Homework/Homework 5 - November 18/linux-administration.pdf",
+    "Advanced/Homework/Homework 4 - November 14/Homework 4 - November 14.md",
+    "Advanced/Homework/Homework 5 - November 18",
+    "Advanced/Homework/Homework 4 - November 14",
+    "Advanced/Homework/Homework 3 - November 19/Homework 3 - Materials.md",
+    "Pasted image 20231121050522.png",
+    "Pasted image 20231121050510.png",
+    "Pasted image 20231121050502.png",
+    "Advanced/Homework/Homework 2 - November 5/Homework 2 - Materials.md",
+    "Advanced/Homework/Homework 3 - November 19/Untitled",
+    "Advanced/Homework/Homework 1 - October 28/Homework 1 - Materials.md",
+    "Advanced/Homework/Homework 3 - November 19/Homework 3 - November 19.md",
+    "Advanced/Homework/Homework 2 - November 5/Homework 2 - November 5.md",
+    "Advanced/Homework/Homework 3 - November 19",
+    "Advanced/Homework/Homework 1 - October 28/Homework 1 - October 28.md",
+    "Advanced/Homework/Homework 2 - November 5",
+    "Intro/Homework/Homework 1/ChangePassword in Linux.pdf",
+    "Advanced/Homework/Homework 1 - October 28",
+    "Intro/Homework/Homework 1/Filesystems.pdf",
+    "Intro/Lectures/Lecture 3 - July 5.md",
+    "Intro/Lectures/Lecture 2 - July 1.md",
+    "Intro/Lectures/Lecture 1 - June 28.md",
+    "Intro/Lectures/Lecture 15 - September 20.md",
+    "Intro/Screenshot 2023-09-02 at 13.17.02.png",
+    "Intro/Untitled.md",
+    "Intro/Lectures/Lecture 13 - September 2, September 6.md",
+    "Advanced/Homework",
+    "Intro/Lectures/Lecture 11 - August 12.md",
+    "Intro/Lectures/Lecture 12 - August 16.md",
+    "Intro/EXAM/Q1.png",
     "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md",
-    "Intro/Homework/Homework 22 - September 20/Partitioning+a+Disk.pdf",
-    "Intro/Homework/Homework 22 - September 20/Mount+Disk+Partitions.pdf",
-    "Intro/Homework/Homework 22 - September 20/Linux+Boot+Sequence.pdf",
-    "Intro/Homework/Homework 22 - September 20/Extend+LVM.pdf",
-    "Intro/Homework/Homework 22 - September 20/Adding+Disk+and+Create+LVM+Partition.pdf",
-    "Intro/Homework/Homework 22 - September 20/Add+Swap+Space.pdf",
-    "Intro/Homework/Homework 22 - September 20/14-Samba+Installation+and+Configuration.pdf",
-    "Intro/Homework/Homework 22 - September 20/8-Customizing-MOTD.pdf",
-    "Intro/Homework/Homework 22 - September 20/7-Overview-of-systemd-for-RHEL-7.pdf",
-    "Intro/Homework/Homework 22 - September 20",
+    "Intro/Homework/Untitled.md",
     "Intro/Homework/Homework 20 - September 13/Homework 20 - September 13.md",
     "Intro/Homework/Homework 19 - September 9/Homework 19 - September 9.md",
     "Advanced/Lectures/Lecture 1 - October 28.md",
@@ -183,30 +213,9 @@
     "LearnDevOps/Networking/Networking 101/1 - Networking 101.md",
     "LearnDevOps/Networking/Networking 101/Contents.md",
     "Advanced/Lectures/Lecture 4 - November 14.md",
-    "Advanced/Lectures/Lecture 3 - November 4.md",
-    "Advanced/Lectures/Lecture 2 - October 31.md",
     "Pasted image 20231104111805.png",
     "Pasted image 20231104111740.png",
-    "Intro/Lectures/Lecture - August 16.md",
-    "Lectures/Lecture 15? - September 20.md",
-    "Intro/Screenshot 2023-09-02 at 13.17.02.png",
     "Intro/Lectures/Screenshot 2023-07-22 at 12.54.19.png",
-    "Intro/Lectures/Screenshot 2023-07-15 at 16.50.41.png",
-    "Intro/Lectures/Lecture 9 - July 29.md",
-    "Intro/Lectures/Lecture 8 - July 26.md",
-    "Intro/Lectures/Lecture 7 - July 22.md",
-    "Intro/Lectures/Lecture 6 - July 19.md",
-    "Intro/Lectures/Lecture 5 - July 15.md",
-    "Intro/Lectures/Lecture 4 - July 12.md",
-    "Intro/Lectures/Lecture 3 - July 5.md",
-    "Intro/Lectures/Lecture 2 - July 1.md",
-    "Intro/Lectures/Lecture 15? - September 20.md",
-    "Intro/Lectures/Lecture 13 - September 13.md",
-    "Intro/Lectures/Lecture 12 - September 2, September 6.md",
-    "Intro/Lectures/Lecture 11 - August 12.md",
-    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/TASK.png",
-    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q9.png",
-    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q8.png",
-    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q7.png"
+    "Intro/Lectures/Screenshot 2023-07-15 at 16.50.41.png"
   ]
 }
