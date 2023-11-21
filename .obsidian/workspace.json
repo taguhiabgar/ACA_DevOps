@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced/Lectures/Lecture 3 - November 4.md",
+                "file": "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced/Lectures/Lecture 3 - November 4.md",
+                "file": "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced/Lectures/Lecture 3 - November 4.md",
+                "file": "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced/Lectures/Lecture 3 - November 4.md"
+                "file": "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md"
               }
             }
           }
@@ -162,19 +162,34 @@
   },
   "active": "8e4170fd96d047ad",
   "lastOpenFiles": [
-    "Advanced/Lectures/Lecture 2 - October 31.md",
+    "Intro/Homework/Homework 23 - September 23",
+    "Intro/Homework/Untitled.md",
+    "Intro/Homework/Homework 23 - September 23/Homework 23 - September 23.md",
+    "Intro/Homework/Homework 22 - September 20/Partitioning+a+Disk.pdf",
+    "Intro/Homework/Homework 22 - September 20/Mount+Disk+Partitions.pdf",
+    "Intro/Homework/Homework 22 - September 20/Linux+Boot+Sequence.pdf",
+    "Intro/Homework/Homework 22 - September 20/Extend+LVM.pdf",
+    "Intro/Homework/Homework 22 - September 20/Adding+Disk+and+Create+LVM+Partition.pdf",
+    "Intro/Homework/Homework 22 - September 20/Add+Swap+Space.pdf",
+    "Intro/Homework/Homework 22 - September 20/14-Samba+Installation+and+Configuration.pdf",
+    "Intro/Homework/Homework 22 - September 20/8-Customizing-MOTD.pdf",
+    "Intro/Homework/Homework 22 - September 20/7-Overview-of-systemd-for-RHEL-7.pdf",
+    "Intro/Homework/Homework 22 - September 20",
+    "Intro/Homework/Homework 20 - September 13/Homework 20 - September 13.md",
+    "Intro/Homework/Homework 19 - September 9/Homework 19 - September 9.md",
+    "Advanced/Lectures/Lecture 1 - October 28.md",
+    "Pasted image 20231104102725.png",
+    "Advanced/Lectures/Lecture 4 - November 18.md",
+    "LearnDevOps/Networking/Networking 101/1 - Networking 101.md",
+    "LearnDevOps/Networking/Networking 101/Contents.md",
+    "Advanced/Lectures/Lecture 4 - November 14.md",
     "Advanced/Lectures/Lecture 3 - November 4.md",
+    "Advanced/Lectures/Lecture 2 - October 31.md",
     "Pasted image 20231104111805.png",
     "Pasted image 20231104111740.png",
-    "Pasted image 20231104102725.png",
-    "Advanced/Lectures/Lecture 1 - October 28.md",
-    "Advanced/Lectures",
-    "Advanced/untitled folder",
     "Intro/Lectures/Lecture - August 16.md",
     "Lectures/Lecture 15? - September 20.md",
     "Intro/Screenshot 2023-09-02 at 13.17.02.png",
-    "Intro/main/1690201729653.pdf",
-    "Intro/main",
     "Intro/Lectures/Screenshot 2023-07-22 at 12.54.19.png",
     "Intro/Lectures/Screenshot 2023-07-15 at 16.50.41.png",
     "Intro/Lectures/Lecture 9 - July 29.md",
@@ -189,23 +204,9 @@
     "Intro/Lectures/Lecture 13 - September 13.md",
     "Intro/Lectures/Lecture 12 - September 2, September 6.md",
     "Intro/Lectures/Lecture 11 - August 12.md",
-    "Intro/Lectures/Lecture 10 - August 2.md",
-    "Intro/Lectures/Lecture 1 - June 28.md",
-    "Intro/Lectures",
-    "Intro/Lecture - August 16.md",
-    "Intro/Learning Materials/Youtube materials.md",
-    "Intro/Learning Materials/10 Courses to Learn Linux Command Line.md",
-    "Intro/Learning Materials/Habr Materials.md",
-    "Intro/Learning Materials",
-    "Advanced/Lecture 1 - October 28.md",
-    "Intro/Homework/Homework 5 - July 1/Additional Readings/L02_awk_rules.pdf",
     "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/TASK.png",
     "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q9.png",
     "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q8.png",
-    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q7.png",
-    "Intro/Homework/Homework 9 - July 19/System+Utility+Commands.pdf",
-    "Intro/Homework/Homework 8 - July 15/Pluggable Authentication Modules (PAM) - настройки системы аутентификации.md",
-    "Intro/Homework/Homework 9 - July 19/Switch+users+and+Sudo+Access.pdf",
-    "Intro/Homework/Homework 9 - July 19/Monitor+User+Commands.pdf"
+    "Intro/Homework/Homework 14 - August 16 - Exam/EXAM/Q7.png"
   ]
 }
